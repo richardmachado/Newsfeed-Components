@@ -11,6 +11,7 @@ let menuItems = [
 
 
 
+
 let header = document.querySelector('.header');
 let body = document.querySelector('body');
 let menuButton = document.querySelector('.menu-button');
